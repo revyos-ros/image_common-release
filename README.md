@@ -1,3 +1,30 @@
+## image_common (jazzy) - 5.1.4-2
+
+The packages in the `image_common` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy image_common --override-release-repository-push-url git@github.com:revyos-ros/image_common-release.git` on `Tue, 15 Oct 2024 03:34:18 -0000`
+
+These packages were released:
+- `camera_calibration_parsers`
+- `camera_info_manager`
+- `image_common`
+- `image_transport`
+
+Version of package(s) in repository `image_common`:
+
+- upstream repository: https://github.com/ros-perception/image_common
+- release repository: https://github.com/revyos-ros/image_common-release.git
+- rosdistro version: `5.1.4-1`
+- old version: `5.1.4-1`
+- new version: `5.1.4-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## image_common (rolling) - 5.3.2-1
 
 The packages in the `image_common` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling image_common` on `Mon, 29 Jul 2024 15:29:11 -0000`
